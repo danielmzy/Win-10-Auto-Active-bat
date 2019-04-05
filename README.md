@@ -20,3 +20,6 @@ For simple version, put the file in to C:\Users\XXX\AppData\Roaming\Microsoft\Wi
 
 
 It open source, so everyone can check the code that no harmful action for  your computer.这是开源项目，所以任何人可以检查代码来确保没有对计算机产生恶意行为。
+
+ATTENTION!!Before you run it, think because it will let your original Win 10 become pirate version.
+注意！注意！注意！在运行之前，三思而后行，因为会使你的原装Win 10变成盗版。
